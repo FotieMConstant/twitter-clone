@@ -11,7 +11,7 @@
     </div>
     <div class="mt-6">
       <div
-        class="flex px-4 w-32 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+        class="flex font-bold px-4 w-36 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>Home</div>
@@ -47,7 +47,7 @@
         <div>List</div>
       </div>
       <div
-        class="flex px-4 w-32 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+        class="flex px-4 w-36 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>Profile</div>
