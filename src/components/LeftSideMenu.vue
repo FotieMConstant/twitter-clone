@@ -11,49 +11,49 @@
     </div>
     <div class="mt-6">
       <div
-        class="flex font-bold px-4 w-36 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+        class="flex text-xl font-bold px-4 w-40 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>Home</div>
       </div>
       <div
-        class="flex px-4 w-36 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+        class="flex text-xl px-4 w-40 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>Explore</div>
       </div>
       <div
-        class="flex px-4 w-48 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+        class="flex text-xl px-4 w-52 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>Notifications</div>
       </div>
       <div
-        class="flex px-4 w-40 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+        class="flex text-xl px-4 w-48 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>Messages</div>
       </div>
       <div
-        class="flex px-4 w-44 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+        class="flex text-xl px-4 w-48 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>Bookmarks</div>
       </div>
       <div
-        class="flex px-4 w-32 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+        class="flex text-xl px-4 w-32 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>List</div>
       </div>
       <div
-        class="flex px-4 w-36 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+        class="flex text-xl px-4 w-40 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>Profile</div>
       </div>
       <div
-        class="flex px-4 w-32 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+        class="flex text-xl px-4 w-36 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>More</div>
