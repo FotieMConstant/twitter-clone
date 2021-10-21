@@ -1,11 +1,21 @@
 <template>
   <div id="app">
-    <div id="nav">
-      <router-link to="/">Home</router-link> |
-      <router-link to="/about">About</router-link>
+    <div class="flex justify-between">
+      <LeftSideMenu />
+      <router-view />
+      <RightSideMenu />
     </div>
-    <router-view/>
   </div>
 </template>
+<script>
+import LeftSideMenu from "@/components/LeftSideMenu.vue";
+import RightSideMenu from "@/components/RightSideMenu.vue";
 
-<style src="./assets/tailwind.css">
+export default {
+  components: {
+    LeftSideMenu,
+    RightSideMenu
+  }
+};
+</script>
+<style scoped></style>
