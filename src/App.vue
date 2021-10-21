@@ -1,6 +1,6 @@
 <template>
   <div id="app">
-    <div class="flex justify-between">
+    <div class="flex ">
       <LeftSideMenu />
       <router-view />
       <RightSideMenu />

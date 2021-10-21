@@ -1,5 +1,5 @@
 <template>
-  <div class="LeftSideMenu w-3/12 px-8 pt-3 border-l">
+  <div class="LeftSideMenu w-3/12 px-8 pt-3 border-l h-screen">
     <div>
       RightSideMenu
     </div>

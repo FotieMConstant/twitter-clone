@@ -1,5 +1,5 @@
 <template>
-  <div class="home w-6/12">
+  <div class="home w-6/12 h-screen">
     <div class="border-b cursor-pointer ">
       <div class="flex justify-between mx-3.5 my-3">
         <div class="text-black font-bold text-xl ">
