@@ -3,11 +3,9 @@
     <div class="ml-0.5">
       <!-- twitter logo -->
       <router-link to="/">
-        <img
-          class="w-12 p-2 hover:bg-lightBlue rounded-full cursor-pointer"
-          src="@/assets/svg/logo.svg"
-          alt=""
-        />
+        <div class="p-2.5 w-12 hover:bg-lightBlue rounded-full cursor-pointer">
+          <img class="w-8" src="@/assets/svg/logo.svg" alt="" />
+        </div>
       </router-link>
       <!-- / twitter logo -->
     </div>
