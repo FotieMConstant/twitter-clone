@@ -1,5 +1,5 @@
 <template>
-  <div class="LeftSideMenu w-3/12 px-8 pt-0.5 border-r h-screen">
+  <div class="LeftSideMenu w-3/12 px-8 pt-0.5 border-r h-screen fixed">
     <div class="ml-0.5">
       <!-- twitter logo -->
       <router-link to="/">
