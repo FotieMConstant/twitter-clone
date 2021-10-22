@@ -12,54 +12,54 @@
       <!-- / twitter logo -->
     </div>
     <div class="mt-2">
-      <div
-        class="flex text-xl font-bold pl-4 w-40 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+      <button
+        class="flex text-xl font-bold pl-4 w-40 space-x-5 py-3 hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>Home</div>
-      </div>
-      <div
-        class="flex text-xl pl-4 w-40 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+      </button>
+      <button
+        class="flex text-xl pl-4 w-40 space-x-5 py-3 hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>Explore</div>
-      </div>
-      <div
-        class="flex text-xl pl-4 w-52 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+      </button>
+      <button
+        class="flex text-xl pl-4 w-52 space-x-5 py-3 hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>Notifications</div>
-      </div>
-      <div
-        class="flex text-xl pl-4 w-48 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+      </button>
+      <button
+        class="flex text-xl pl-4 w-48 space-x-5 py-3 hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>Messages</div>
-      </div>
-      <div
-        class="flex text-xl pl-4 w-48 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+      </button>
+      <button
+        class="flex text-xl pl-4 w-48 space-x-5 py-3 hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>Bookmarks</div>
-      </div>
-      <div
-        class="flex text-xl pl-4 w-32 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+      </button>
+      <button
+        class="flex text-xl pl-4 w-32 space-x-5 py-3 hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>List</div>
-      </div>
-      <div
-        class="flex text-xl pl-4 w-40 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+      </button>
+      <button
+        class="flex text-xl pl-4 w-40 space-x-5 py-3 hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>Profile</div>
-      </div>
-      <div
-        class="flex text-xl pl-4 w-36 space-x-5 py-3 cursor-pointer hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+      </button>
+      <button
+        class="flex text-xl pl-4 w-36 space-x-5 py-3 hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
         <div>icon</div>
         <div>More</div>
-      </div>
+      </button>
     </div>
   </div>
 </template>
