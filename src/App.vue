@@ -18,4 +18,9 @@ export default {
   }
 };
 </script>
-<style scoped></style>
+<style>
+.__headerBgBlur {
+  background-color: rgba(255, 255, 255, 0.85);
+  backdrop-filter: blur(12px);
+}
+</style>

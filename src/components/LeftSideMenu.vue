@@ -9,7 +9,7 @@
       </router-link>
       <!-- / twitter logo -->
     </div>
-    <div class="mt-2">
+    <div class="mt-2 space-y-1">
       <button
         class="flex text-xl font-bold pl-4 w-40 space-x-5 py-3 hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
       >
@@ -62,6 +62,35 @@
         <div><img class="w-7" src="@/assets/svg/more.svg" alt="" /></div>
         <div>More</div>
       </button>
+    </div>
+    <div class="mt-3">
+      <button
+        class="bg-twitterBlue hover:bg-twitterBlueHovered transition duration-500 text-white w-56 rounded-full font-bold py-4"
+      >
+        Tweet
+      </button>
+    </div>
+    <div class="mt-10">
+      <div
+        class="flex cursor-pointer justify-between px-5 py-3 hover:bg-gray transition delay-75 duration-200 ease-in-out rounded-full"
+      >
+        <div class="flex space-x-2">
+          <div>
+            <img
+              class="w-12 rounded-full"
+              src="https://avatars.githubusercontent.com/u/42372656?v=4"
+              alt=""
+            />
+          </div>
+          <div>
+            <div class="font-bold">fotiecode</div>
+            <div class="text-gray-500 text-sm">@fotie_codes</div>
+          </div>
+        </div>
+        <div class="my-auto">
+          <img class="w-5" src="@/assets/svg/threedots.svg" alt="" />
+        </div>
+      </div>
     </div>
   </div>
 </template>
